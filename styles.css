@@ -1,0 +1,29 @@
+body {
+    background-color: #FFF689;
+}
+
+.main {
+    font-size: 6em;
+}
+
+h1 {
+    font-size: 4em;
+	text-align: center;
+    color: #E03616;
+}
+
+.recipes {
+    max-width: 500px;
+    margin: auto;
+}
+
+.cilbir,
+.rockfish,
+.cocktail {
+    font-size: 3em;
+    text-align: center;
+}
+
+a {
+    
+}
